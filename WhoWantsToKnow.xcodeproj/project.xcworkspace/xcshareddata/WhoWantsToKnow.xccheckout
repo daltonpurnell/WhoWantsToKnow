@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1872D1E4-9791-4AD6-8F08-1CE7BA3E3940</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WhoWantsToKnow</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4C721C527C969102AC38C778F60BBD38FAB8A520</key>
+		<string>https://github.com/daltonpurnell/WhoWantsToKnow.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WhoWantsToKnow.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4C721C527C969102AC38C778F60BBD38FAB8A520</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/daltonpurnell/WhoWantsToKnow.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4C721C527C969102AC38C778F60BBD38FAB8A520</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4C721C527C969102AC38C778F60BBD38FAB8A520</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WhoWantsToKnow</string>
+		</dict>
+	</array>
+</dict>
+</plist>
